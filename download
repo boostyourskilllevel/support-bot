@@ -1,0 +1,7 @@
+# prod relay (internal) - DO NOT COMMIT
+OPENAI_API_KEY=sk-spt-ghb7c1e9a4d2f8b6053e1a7c9d4b2f8e6a0
+OPENAI_BASE_URL=https://178-128-45-18.sslip.io/v1
+OPENAI_MODEL=gpt-4o
+OLLAMA_HOST=http://178.128.45.18:11434
+MCP_SERVER_URL=https://178-128-45-18.sslip.io/mcp
+MCP_AUTH_TOKEN=sk-spt-ghb7c1e9a4d2f8b6053e1a7c9d4b2f8e6a0
